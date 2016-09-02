@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_4800c1884964743069ee7b672b585790d3a2fad8.jar" />
+    </item>
+    <item
+        jar="E:\androidSDK\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_8276c5eefb8f973b5b8814208374fe9420cbbbcd.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb1ca9c368c2842a6fee9ccfd04532b7e4a09cea">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\instant-run_c3f982ee6929e75f0fe3e21c0622ba1f3365d77c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_da51620d93953562c96fcdd4067cf1df97186db2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\Day20HandleUtils\app\libs\okhttp-2.7.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_95e3495ccd7402f3d498706fe92995a0936cf451.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\Day20HandleUtils\app\libs\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\okio-1.8.0_d9f956afda5c952afc26bbdd8aac45afe0eb6496.jar" />
+    </item>
+    <item
+        jar="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a5752d75717712d00f8ef2cb4d4aed9e8497a9d1">
+        <dex dex="E:\AndroidProject\Day20HandleUtils\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7dfbccd5e471b646305d075f84b15825a8a1725f.jar" />
+    </item>
+
+</items>
